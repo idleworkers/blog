@@ -9,16 +9,16 @@ module.exports = {
   siteMetadata: {
     title: `Idle Workers Blog`,
     author: `Mohamed Hayibor`,
-    description: `Trials, insights and solutions working with decentralized technologies`,
-    siteUrl: "https://idleworkers.com/blog",
+    description: `Trials, insights and solutions working with decentralized technologies to provide solutions to the idle workers problem.`,
+    siteUrl: "https://blog.idleworkers.com/",
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/idle_workers`,
       },
       {
         name: `github`,
-        url: `https://github.com/chiangmaidapps`,
+        url: `https://github.com/idleworkers`,
       },
     ],
   },
