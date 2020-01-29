@@ -7,9 +7,10 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Idle Workers Blog`,
+    author: `Mohamed Hayibor`,
+    description: `Trials, insights and solutions working with decentralized technologies`,
+    siteUrl: "https://idleworkers.com/blog",
     social: [
       {
         name: `twitter`,
@@ -17,7 +18,7 @@ module.exports = {
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/chiangmaidapps`,
       },
     ],
   },
