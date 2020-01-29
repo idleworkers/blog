@@ -6,7 +6,7 @@
     "start": "gatsby develop",
     "build": "rm -rf public && gatsby build",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && cp now.json public/ && cd public && now alias $(now) blog.idleworkers.com"
+    "deploy": "npm run build && cp now.json public/ && cd public && now alias $(now) blog.idleworkers.com"
   },
   "dependencies": {
     "gatsby": "^2.19.5",
